@@ -1,0 +1,6 @@
+def print_favorite_movie():
+    print('film faforite saya adalah naruto movie the last')
+
+print_favorite_movie()
+print_favorite_movie()
+print_favorite_movie()
